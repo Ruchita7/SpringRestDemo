@@ -1,0 +1,5 @@
+insert into person values(101,'ruchita','java')
+insert into person values(102,'rachit','management')
+insert into person values(103,'shubham','react')
+insert into person values(104,'priyanka','java')
+insert into person values(105,'komal','javascript')
